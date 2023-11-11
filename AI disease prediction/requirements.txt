@@ -3,3 +3,6 @@ pickle-mixin==1.0.2
 streamlit==1.2.0
 streamlit-option-menu==0.3.2
 scikit-learn==1.0.1
+To run file type = streamlit run main.py
+
+If any issues in running in any code editors like VS-Code terminal then run same command in Command prompt.
